@@ -1,2 +1,1 @@
-# GUI_PROJECTS
-Projects based on Graphical User Interface. 
+## I've included all of the Graphical User Interface (GUI) Python Projects in this repository.
