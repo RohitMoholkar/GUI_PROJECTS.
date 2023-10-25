@@ -8,4 +8,4 @@ The GUI, or graphical user interface, is a type of user interface that can be us
 A collection of tools called Tkinter, which allows Python to be used to render graphical user interfaces. Tkinter is the Python port for Tcl-Tk GUI toolkit developed by Fredrik Lundh. It enables the GUI-based execution of Python scripts. Initially, import the TKinter module. After importing, use the Tk() function to set up the application object. This will create a basic window also known as root, a frame will display title bar, control box with the minimize and close buttons, and some space to hold other widgets. All Tkinter widget classes are inherited from the Widget class. Using these classes you can create perfect GUI. 
 
 ### Project1 description 
-- Project Name: '''DIGITAL CLOCK AND DATE BASED ON GUI USING PYTHON.''' 
+- Project Name: DIGITAL CLOCK AND DATE BASED ON GUI USING PYTHON. 
