@@ -13,8 +13,8 @@ A collection of tools called Tkinter, which allows Python to be used to render g
 - The implementation of this project involves the utilization of Tkinter and Time thses two Python libraries.
 - The Tkinter library is used for creating the graphical user interface.
 - The time module is used for retrieving the current time and date.
-- Within the scope of this project, I've introduced a "Digital_Clock()" class, which incorporates various functions, with each function dedicated to constructing specific graphical elements (widgets). This class initializes the GUI window, sets up the clock and date display frames, and continuously updates the time and date. 
 - The "Real-Time Digital Clock and Date" project is a graphical user interface (GUI) application built using the Tkinter library in Python.
+- Within the scope of this project, I've introduced a "Digital_Clock()" class, which incorporates various functions, with each function dedicated to constructing specific graphical elements (widgets). This class initializes the GUI window, sets up the clock and date display frames, and continuously updates the time and date. 
 - Digital Clock Display: The application presents a digital clock on the user's screen, showing the current time in hours, minutes, seconds, and AM/PM format. The time is updated in real-time.
 - Date Display: The GUI also displays the current date, including the month, day, and year.
 - GUI Layout: The GUI is divided into two sections. The top section displays the digital clock, while the bottom section shows the date. The clock and date are presented in distinct frames with different background colors for easy differentiation. 
