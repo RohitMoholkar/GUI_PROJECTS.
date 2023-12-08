@@ -1,4 +1,4 @@
-## I have included the Graphical User Interface (GUI) Python Projects in this Repository.
+## I have included Graphical User Interface (GUI) Python Projects in this Repository.
 
 ### About Graphical User Interface (GUI): 
 The GUI, or graphical user interface, is a type of user interface that can be used on desktop computers, or mobile phones to represent the actions and operations of the user. These applications can receive inputs through mouse clicks and can enable the user to choose from alternatives with the help of radio buttons, dropdown lists, and other GUI elements (or widgets). For the GUI, Python UI libraries can be used. Everyone is probably know that Tkinter is among the best and most widely used Python GUI library. 
